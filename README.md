@@ -4,7 +4,7 @@
 
 Lima, Perú
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-USUARIO) [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:TU-CORREO@ejemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-peralta-quicaño-a53766b8) [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:eduardo7sistemas@gmail.com)
 
 [Español](#español) · [English](#english)
 
@@ -41,10 +41,10 @@ Además del ERP, trabajo en integraciones, datos y soluciones de IA: he llevado 
 
 | Proyecto | Descripción | Tecnologías |
 | :---- | :---- | :---- |
-| [lima-vota-sim](https://github.com/3p3r4lt4/lima-vota-sim) | *Completar: una línea que explique qué hace y para quién* | Python |
-| *odoo-modulo-demo* | *Completar: módulo Odoo de demostración* | Odoo 19 · Python |
-| *odoo-docker-deploy* | *Completar: despliegue de Odoo con Docker Compose* | Docker · Nginx · PostgreSQL |
-| *odoo-migration-13-19* | *Completar: guía y scripts de migración* | Python · SQL |
+| [lima-vota-sim](https://github.com/3p3r4lt4/lima-vota-sim) | Extrae y estructura la información de los planes de gobierno de los candidatos distritales de Lima para facilitar su consulta y comparación. | Python |
+| *odoo-modulo-demo* | Módulo de consulta SUNAT: completa automáticamente los datos fiscales del contacto a partir de su RUC mediante la API de Migo. | Odoo 19 · Python |
+| *odoo-docker-deploy* | Despliegue de Odoo 19 Community con Docker Compose, Nginx como proxy inverso y un entorno de desarrollo asistido por Claude Code. | Docker · Nginx · PostgreSQL |
+| *odoo-migration-13-19* | Migración de Odoo v13 a v19. Fase 1: limpieza y normalización de datos maestros (sucursales, contactos, clientes, contratos e inventario). | Python · SQL |
 
 ### En qué estoy trabajando
 
@@ -54,7 +54,7 @@ Además del ERP, trabajo en integraciones, datos y soluciones de IA: he llevado 
 
 ### Contacto
 
-- LinkedIn: [linkedin.com/in/3p3r4lt4](https://www.linkedin.com/in/3p3r4lt4)  
+- LinkedIn: [linkedin.com/in/3p3r4lt4](https://www.linkedin.com/in/eduardo-peralta-quicaño-a53766b8)  
 - Correo: [eduardo7sistemas@gmail.com](mailto:eduardo7sistemas@gmail.com)
 
 ---
@@ -90,10 +90,10 @@ Beyond the ERP, I work on integrations, data and AI solutions: I have shipped RA
 
 | Project | Description | Technologies |
 | :---- | :---- | :---- |
-| [lima-vota-sim](https://github.com/3p3r4lt4/lima-vota-sim) | *To complete: one line on what it does and who it is for* | Python |
-| *odoo-modulo-demo* | *To complete: demo Odoo module* | Odoo 19 · Python |
-| *odoo-docker-deploy* | *To complete: Odoo deployment with Docker Compose* | Docker · Nginx · PostgreSQL |
-| *odoo-migration-13-19* | *To complete: migration guide and scripts* | Python · SQL |
+| [lima-vota-sim](https://github.com/3p3r4lt4/lima-vota-sim) | Extracts and structures the government plans of Lima's district candidates to make them easy to query and compare. | Python |
+| *odoo-modulo-demo* | SUNAT lookup module: auto-fills a contact's tax data from its RUC number through the Migo API. | Odoo 19 · Python |
+| *odoo-docker-deploy* | Odoo 19 Community deployment with Docker Compose, Nginx as a reverse proxy and a Claude Code-assisted development environment. | Docker · Nginx · PostgreSQL |
+| *odoo-migration-13-19* | Odoo v13 to v19 migration. Phase 1: cleaning and normalizing master data (branches, contacts, customers, contracts and inventory). | Python · SQL |
 
 ### Currently working on
 
@@ -103,5 +103,5 @@ Beyond the ERP, I work on integrations, data and AI solutions: I have shipped RA
 
 ### Contact
 
-- LinkedIn: [linkedin.com/in/3p3r4lt4](https://www.linkedin.com/in/3p3r4lt4)  
+- LinkedIn: [linkedin.com/in/3p3r4lt4](https://www.linkedin.com/in/eduardo-peralta-quicaño-a53766b8)  
 - Email: [eduardo7sistemas@gmail.com](mailto:eduardo7sistemas@gmail.com)
